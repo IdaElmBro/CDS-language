@@ -1,0 +1,13 @@
+,text,pos,dep
+0,Hello,INTJ,intj
+1,",",PUNCT,punct
+2,I,PRON,nsubj
+3,hope,VERB,ROOT
+4,you,PRON,nsubj
+5,'re,AUX,aux
+6,doing,VERB,ccomp
+7,great,ADV,dobj
+8,!,PUNCT,punct
+9,I,PRON,nsubj
+10,'m,AUX,ROOT
+11,Ida,PROPN,npadvmod
